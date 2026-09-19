@@ -1,0 +1,18 @@
+Aarav Sharma
+B.Tech Computer Science and Engineering
+
+Skills
+C++, Python, SQL, Data Structures, Algorithms, JavaScript, React, FastAPI, PostgreSQL, Git, REST APIs
+
+Projects
+Smart Shopping Assistant: Built a product research assistant using React, FastAPI, PostgreSQL and third-party APIs. Added filtering and recommendation workflows.
+RepoLens: Developed a repository analysis tool in Python and FastAPI that summarizes code metadata and exposes REST APIs.
+
+Experience
+Software Engineering Intern — 1 year. Built backend features, wrote SQL queries, collaborated with a five-person engineering team.
+
+Education
+B.Tech in Computer Science and Engineering
+
+Achievements
+Solved 400+ DSA problems and led a college technical project team.

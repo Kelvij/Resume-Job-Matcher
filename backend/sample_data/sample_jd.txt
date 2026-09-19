@@ -1,0 +1,20 @@
+Software Engineer — Backend Platform at Nova Systems
+
+Required qualifications:
+- 1+ years of software engineering experience
+- Strong C++ and Python
+- Data structures and algorithms
+- REST APIs and SQL
+- Git and object-oriented programming
+
+Preferred:
+- Docker
+- AWS
+- Kubernetes
+- React
+
+Education: Bachelor's degree in Computer Science, Engineering, or related field.
+
+Soft skills: communication, collaboration, ownership.
+
+The team builds developer-facing backend services and cloud tooling.

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "eval-1",
+    "resume": "C++, Python, SQL, DSA, REST APIs, PostgreSQL",
+    "job": "Required: C++, SQL, REST APIs. Preferred: Docker.",
+    "expected": {
+      "required_skill_hits": ["C++", "SQL", "REST APIs"],
+      "missing_preferred": ["Docker"]
+    }
+  },
+  {
+    "id": "eval-2",
+    "resume": "JavaScript, React, Node.js, MongoDB",
+    "job": "Required: JavaScript and React. Preferred: AWS and Docker.",
+    "expected": {
+      "required_skill_hits": ["JavaScript", "React"],
+      "missing_preferred": ["AWS", "Docker"]
+    }
+  }
+]
