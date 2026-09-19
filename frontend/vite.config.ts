@@ -3,10 +3,10 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
+  base: '/Resume-Job-Matcher/',
   plugins: [react(), tailwindcss()],
   server: {
     port: 5173,
     host: 'localhost',
-    base: '/Resume-Job-Matcher/',
   },
 })
